@@ -1,16 +1,16 @@
   #pogrubienie_rola {
                 font-size: 34px;
-                color: #815CCE;
+                color: #4962e5;
             }
             
             #pochylona_rola {
                 font-size: 39pt;
-                color: #E5C06A;
+                color: #a6b001;
             }
             
             #index_gorny_rola {
                 font-size: 1.4cm;
-                color: #958E1A;
+                color: #abddac;
             }
             
             #index_dolny_rola {
@@ -20,13 +20,13 @@
             
             #mono_rola {
                 font-size: 44px;
-                color: #15DE9C;
+                color: #591124;
             }
             
             #powiekszenie_rola {
-                color: #4F3E9C;
+                color: #a7520c;
             }
             
             #pomniejszenie_rola {
-                color: rgb(70%, 64%, 22%);
+                color: rgb(15%, 24%, 80%);
             }

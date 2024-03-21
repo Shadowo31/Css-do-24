@@ -1,0 +1,37 @@
+p#akapit1_rola {
+    font-family: serif;
+    color: #FFFF00;
+    text-decoration: overline;
+    text-indent: 3cm;
+    line-height: 1cm;
+    word-spacing: 12px;
+    letter-spacing: 18mm;
+    text-align: right;
+}
+
+p#akapit1_rola>.special {
+    font-style: italic;
+    text-transform: lowercase;
+    font-size: xx-large;
+    font-weight: 900;
+    font-size: normal;
+    font-variant: small-caps;
+}
+
+p#akapit2_rola {
+    font-family: sans-serif;
+    color: #7B68EE;
+    text-indent: 1cm;
+    line-height: 1cm;
+    word-spacing: 12px;
+    letter-spacing: 2ex;
+    text-align: center;
+}
+
+p#akapit2_rola>.special {
+    text-decoration: line-through;
+    font-style: oblique;
+    text-transform: capitalize;
+    font-size: normal;
+    font-variant: small-caps;
+}
